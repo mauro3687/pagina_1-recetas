@@ -1,0 +1,12 @@
+body{
+    background:bisque;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a{
+    color: rgb(64, 92, 192);
+}
+
+input{
+    display: table-column;
+    flex: 800;
+}
